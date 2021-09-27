@@ -26,7 +26,7 @@ public class teste {
         stmt.execute();
         stmt.close();
 
-        System.out.println("alo!")
+        System.out.println("alo!");
 
         con.close();
     }
