@@ -28,6 +28,6 @@ public class teste {
 
         System.out.println("alo!");
 
-        con.close();
+        con.close()
     }
 }
